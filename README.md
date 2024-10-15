@@ -81,6 +81,5 @@ If you have any questions or require assistance, please don’t hesitate to reac
 ---
 
 Let your notes resonate and inspire—happy echoing! 💬🔄
-```
 
-You can copy and paste this text into a file with a `.md` extension (like `README.md`) to use it as a Markdown file. Let me know if you need any further modifications!
+
